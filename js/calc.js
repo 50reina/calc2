@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "solve Augst29";
+document.getElementById("nameId").textContent = "solved";
 
 //Dynamic background color change
 const color = [
